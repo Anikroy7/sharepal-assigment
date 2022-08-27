@@ -15,7 +15,7 @@ const Products = () => {
         <section>
             <h1 className='text-3xl font-bold p-4 '>Action Camera Mounts on rent</h1>
 
-            <div className='grid grid-cols-3 gap-4'>
+            <div className='grid grid-cols-3 gap-4 px-5'>
                 {
                     products.map(product => <ProductDetails
                         key={product._id}

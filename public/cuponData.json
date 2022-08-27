@@ -1,0 +1,37 @@
+[
+    {
+        "name": "SHAREPAL10",
+        "discount": 10,
+        "about": "Get 10% Off On Orders Above ₹1000. Maximum Discount: ₹500"
+    },
+    {
+        "name": "EARLYBIRD5",
+        "discount": 5,
+        "about": "Get 5% Flat Off. Applicable If You Order At Least 5 Days Before... "
+    },
+    {
+        "name": "EARLYBIRD15",
+        "discount": 15,
+        "about": "Get 15% Flat Off. Applicable If You Order At Least  15 Days Before.."
+    },
+    {
+        "name": "EARLYBIRD10",
+        "discount": 10,
+        "about": "Get 10% Flat Off. Applicable If You Order Atleast 10 Days Before..."
+    },
+    {
+        "name": "FREEDEL",
+        "discount": 0,
+        "about": "Use Code FREEDEL To Get Free Delivery On Your Order."
+    },
+    {
+        "name": "EARLYBIRD20",
+        "discount": 20,
+        "about": "Get 20% Flat Off. Applicable If You Order Atleast 20 Days Before..."
+    },
+    {
+        "name": "EBHTBH",
+        "discount": 0,
+        "about":"Free Delivery From Backend"
+    }
+]
