@@ -6,7 +6,7 @@ const CouponCardsDetails = ({ coupon }) => {
         <section style={{
             boxShadow: "9px 7px 5px -4px rgba(0,0,0,0.31)",
             borderRadius: "20px"
-        }} class="w-80 mb-5 h-36 d">
+        }} class="w-80 mb-5 h-36">
             <div className='flex items-center'>
                 <div className='bg-blue-700 text-white font-semibold px-10 rounded-r-3xl'>
                     {discount}% <br />

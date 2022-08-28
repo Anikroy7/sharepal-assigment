@@ -6,8 +6,6 @@ const Main = () => {
         <div class="drawer drawer-mobile h-auto">
             <input id="my-drawer-2" type="checkbox" class="drawer-toggle" />
             <div class="drawer-content">
-
-                <label for="my-drawer-2" class="btn btn-primary drawer-button lg:hidden">Open drawer</label>
                 <Outlet></Outlet>
             </div>
             <div class="drawer-side">
@@ -20,7 +18,7 @@ const Main = () => {
                     <li className='mb-4 cursor-pointer'><a>GoPro and Mobile Gimbal</a></li>
                     <li className='mb-4 cursor-pointer'><a>Action Camera Adons</a></li>
                     <li className='mb-4 cursor-pointer'><a>360 Cameras</a></li>
-                    <li className='mb-4 cursor-pointer'><a>Action Camera Mounts</a></li>
+                    <li className='mb-4 cursor-pointer bg-blue-300 rounded-lg p-2'><a>Action Camera Mounts</a></li>
 
                 </ul>
 
